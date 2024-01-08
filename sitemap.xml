@@ -21,11 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nicodemusn.github.io/lexwest/uutiset/</loc>
-         <lastmod>2024-01-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/017-1988-perustuslaki/</loc>
          <lastmod>2024-01-08</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +37,11 @@
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/520-2004-verolaki/</loc>
+         <lastmod>2024-01-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nicodemusn.github.io/lexwest/uutiset/</loc>
          <lastmod>2024-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
