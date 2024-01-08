@@ -1,0 +1,10 @@
+site_name: Lexwest
+site_url: https://nicodemusn.github.io/lexwest/
+nav:
+  - Etusivu: index.md
+  - Asetukset: asetukset.md
+  - Hallinto: hallinto.md
+  - Lait: lait.md
+  - Uutiset: uutiset.md
+theme:
+  name: terminal
