@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://nicodemusn.github.io/lexwest/</loc>
-         <lastmod>2024-01-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://nicodemusn.github.io/lexwest/asetukset/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/hallinto/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nicodemusn.github.io/lexwest/hallituksen-asiakirjat/</loc>
+         <lastmod>2024-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nicodemusn.github.io/lexwest/hallituksen-asiakirjat/020-2010-hyp/</loc>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/017-1988-perustuslaki/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/020-1988-perint%C3%B6laki/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/050-1988-aluelaki/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/520-2004-verolaki/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/uutiset/</loc>
-         <lastmod>2024-01-14</lastmod>
+         <lastmod>2024-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
