@@ -185,7 +185,7 @@ kansalaisia, eikä vain äänestäjiään.
 
 Laki säädettäköön aina lakiesityksen perusteella. Lakiesityksen 
 voi tehdä tasavallan presidentti, yksittäinen kansanedustaja, 
-hallituksen toimeenpaneva toimituskunta tai yksittäinen 
+valtioneuvosto tai yksittäinen 
 kansalainen. Yksittäisen kansalaisen tekemän lakiesityksen on 
 saatava vähintään sata allekirjoitusta muilta kansalaisilta 
 tullakseen eduskunnan käsittelyyn.
@@ -209,7 +209,7 @@ Mikäli eduskunta hyväksyy lopullisen lakiesityksen, astuu se
 voimaan lakina seuraavana päivänä presidentin allekirjoittamana, 
 ellei laissa ole muuta voimaantulosta säädetty. Lakia voidaan 
 toimeenpanevasti tarkentaa asetuksilla ilman eduskunnan erillistä 
-hyväksyntää toimeenpanevan toimituskunnan toimesta.
+hyväksyntää valtioneuvoston toimesta.
 
 Kaikkien lakien ja asetusten on oltava julkisesti saatavilla ja 
 nähtävänä. Lait ja asetukset julkaistakoon kansallisessa 
@@ -295,11 +295,10 @@ veto-oikeuden kahden kolmasosan määräenemmistöllä.
 Presidentistä ja presidentinkansliasta säädettäköön erikseen 
 lailla.
 
-### 19 § - Toimeenpaneva toimituskunta
+### 19 § - Valtioneuvosto
 
-Hallitusvaltaa käytettäköön hallituksen toimeenpanevan 
-toimituskunnan toimesta, jonka johtajaksi nimitetään 
-pääministeri. Toimituskunta jakaantukoon ministeriöihin, jotka 
+Hallitusvaltaa käytettäköön valtioneuvoston toimesta, jonka johtajaksi nimitetään 
+pääministeri. Valtioneuvosto jakaantukoon ministeriöihin ja toimituskuntiin, jotka 
 vastaavat omista erityisistä toimialueistaan ja niiden kautta 
 välittyvästä virkavallasta.
 
@@ -308,25 +307,26 @@ joiden kautta valtio- ja virkavaltaa yksinomaisesti ja
 laillisesti käytetään. Pysyviä ministeriöitä ovat valtiovarain-, 
 ulko-, sisä-, oikeus- ja puolustusministeriöt, ja niiden johtajia 
 ovat vastaavat ministerit. Pääministerille ei nimitetä omaa 
-ministeriötä, vaan hän vastaa yksin koko toimituskunnan 
+ministeriötä, vaan hän vastaa yksin valtioneuvoston 
 hallinnosta.
 
-Toimeenpanevan toimituskunnan jäsenille kuuluu asianmukainen 
+Valtioneuvoston jäsenille kuuluu asianmukainen 
 palkkio tehtävistään, jotka katsottakoon luottamus- eikä 
-virkatoimeksi. Mikäli toimituskunnan jäsen on samanaikaisesti 
+virkatoimeksi. Mikäli valtioneuvoston jäsen on samanaikaisesti 
 kansanedustaja, kuuluu hänelle kansanedustajan palkkiosta vain 
 puolet.
 
-Toimituskunnan hallinnosta ja organisaatiosta säädettäköön 
+Valtioneuvoston hallinnosta ja organisaatiosta säädettäköön 
 erikseen lailla.
 
 ### 20 § - Pääministeri
 
 Valtakunnan ylimpänä hallitusvaltaa käyttävänä valtiomiehenä 
-toimikoon toimeenpanevan toimituskunnan pääministeri. 
-Pääministerin nimittää eduskunta, jonka luottamus hänen on 
+toimikoon valtioneuvoston pääministeri.
+
+Pääministerin nimittää eduskunta, jonka luottamusta hänen on 
 nautittava, ja hänellä on yksinoikeus esittää eduskunnalle 
-nimitettäväksi muut toimituskunnan jäsenet. Epäluottamusta 
+nimitettäväksi muut valtioneuvoston jäsenet. Epäluottamusta 
 pääministeriä kohtaan voi esittää korkeintaan kerran kuukaudessa 
 välikysymyksen muodossa eduskuntaryhmä tai tasavallan 
 presidentti.
@@ -352,10 +352,9 @@ Mikäli laissa ilmoitetaan, tai eduskunta on muuten hallituksen
 valtuuttanut, on hallituksella oikeus käyttää hallitusvaltaa 
 antamalla lakeja tarkentavia asetuksia, jotka sitovat 
 asianomaisia viranomaisia. Valta antaa asetuksia olkoon 
-ensisijaisesti toimeenpanevalla toimituskunnalla.
+ensisijaisesti valtioneuvostolla.
 
-Tasavallan presidentti voi antaa asetuksen joko toimeenpanevan 
-toimituskunnan tai eduskunnan hyväksynnällä. Mikäli laissa 
+Tasavallan presidentti voi antaa asetuksen joko valtioneuvoston tai eduskunnan hyväksynnällä. Mikäli laissa 
 nimenomaisesti tarkoitetaan jokin asetus presidentin 
 annettavaksi, voi presidentti tällöin antaa kyseisen asetuksen 
 ilman erillistä hyväksyntää.
@@ -365,16 +364,14 @@ Eduskunnalla on oikeus kumota asetuksia.
 ### 22 § - Väliaikainen toimituskunta
 
 Pääministerin menettäessä eduskunnan luottamuksen tulee hänestä 
-varapääministeri ja hänen johtamastaan toimeenpanevasta 
-toimituskunnasta tulee väliaikainen toimituskunta. Uudet 
-eduskuntavaalit on järjestettävä vähintään kuukausi 
+varapääministeri ja hänen johtamastaan valtioneuvostosta tulee toimitusministeriö. Uudet eduskuntavaalit on järjestettävä vähintään kuukausi 
 epäluottamusäänestyksen jälkeen.
 
-Väliaikainen toimituskunta voi hoitaa vain pakollisia 
+Toimitusministeriö voi hoitaa vain pakollisia 
 lainsäädännöllisiä tehtäviä. Ensisijainen hallitusvalta kuuluu 
-väliaikaisen toimituskunnan aikana tasavallan presidentille, 
+toimitusministeriön aikana tasavallan presidentille, 
 jolloin hänen antamansa asetukset eivät vaadi erillistä 
-hyväksyntää. Kaikki väliaikaisen toimituskunnan asetukset 
+hyväksyntää. Kaikki toimitusministeriön asetukset 
 vaativat eduskunnan hyväksynnän.
 
 ### 23 § - Laillisuusvalvonta
@@ -382,17 +379,9 @@ vaativat eduskunnan hyväksynnän.
 Ylimmän valtiovallan luottamustoimia saakoon pitää jokainen 
 yksilö vain yhden kerrallaan, lukuunottamatta päällekkäisiä 
 puhemiehen ja kansanedustajan luottamustoimia, jotka voivat 
-samanaikaisesti olla yhdellä henkilöllä. Myös toimeenpanevan 
-toimituskunnan jäsenet saakoon pysyä kansanedustajan tehtävissä, 
-mutta heidän ei kuulu osallistua eduskunnan tavanomaiseen työhön 
-sen yleisistuntoja lukuunottamatta.
+samanaikaisesti olla yhdellä henkilöllä. Myös valtioneuvoston jäsenet saakoon pysyä kansanedustajan tehtävissä,  mutta heidän ei kuulu osallistua eduskunnan tavanomaiseen työhön sen yleisistuntoja lukuunottamatta.
 
-Eduskunnan, hallituksen ja tuomioistuinten toimien 
-lainmukaisuutta tarkastamaan nimitetään eduskunnan toimesta ja 
-tasavallan presidentin esityksestä oikeuskansleri. Hänen 
-tehtävänsä on valtiollinen virka toimeenpanevan toimituskunnan 
-jäsenenä, ja tehtävästä säädettäköön muiden valtion virkojen 
-ohella erikseen lailla.
+Eduskunnan, hallituksen ja tuomioistuinten toimien lainmukaisuutta tarkastamaan nimitetään eduskunnan toimesta ja tasavallan presidentin esityksestä oikeuskansleri. Hänen tehtävänsä on valtiollinen virka valtioneuvoston jäsenenä, ja tehtävästä säädettäköön muiden valtion virkojen ohella erikseen lailla.
 
 ## 5 Valtiontalous
 
@@ -499,7 +488,7 @@ toimii korkein hallinto-oikeus (KHO).
 
 Korkeimman hallinto-oikeuden johtajiksi ja tuomiovaltaisiksi 
 tuomareiksi nimitetään tasavallan presidentin toimesta ja 
-toimeenpanevan toimituskunnan oikeuskanslerin esitykestä 
+valtioneuvoston oikeuskanslerin esitykestä 
 päähallintotuomari ja kaksi varahallintotuomaria.
 
 ### 30 § - Syyttäjänlaitos

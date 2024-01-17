@@ -1,0 +1,7 @@
+# Lait
+
+* [520-2004 (verolaki)](520-2004-verolaki.md)
+* [802-1999 (hallituslaki)](802-1999-hallituslaki.md)
+* [050-1988 (aluelaki)](050-1988-aluelaki.md)
+* [020-1988 (perintölaki)](020-1988-perintölaki.md)
+* [017-1988 (perustuslaki)](017-1988-perustuslaki.md)

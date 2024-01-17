@@ -2,9 +2,22 @@ site_name: Lexwest
 site_url: https://nicodemusn.github.io/lexwest/
 nav:
   - Etusivu: index.md
-  - Asetukset: asetukset.md
-  - Hallinto: hallinto.md
-  - Lait: lait.md
-  - Uutiset: uutiset.md
+  - Hallituksen asiakirjat: hallituksen-asiakirjat/index.md
+  - Hallinto: hallinto/index.md
+  - Lait: lait/index.md
+  - Uutiset: uutiset/index.md
 theme:
-  name: terminal
+  name: material
+  features:
+    - navigation.expand
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - toc.follow
+markdown_extensions:
+  - toc:
+      title: Sisällysluettelo
+      anchorlink: True
+      toc_depth: 4
