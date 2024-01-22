@@ -7,6 +7,10 @@ nav:
   - Lait: lait/index.md
   - Uutiset: uutiset/index.md
 theme:
+  palette:
+    primary: teal
+    accent: red
+  font: false
   name: material
   features:
     - navigation.expand

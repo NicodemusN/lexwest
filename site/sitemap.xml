@@ -2,62 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://nicodemusn.github.io/lexwest/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/hallinto/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/hallituksen-asiakirjat/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/hallituksen-asiakirjat/020-2010-hyp/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/hallituksen-asiakirjat/HE/007-2005-he/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nicodemusn.github.io/lexwest/lait/002-1989-eduskuntalaki/</loc>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/017-1988-perustuslaki/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/020-1988-perint%C3%B6laki/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/050-1988-aluelaki/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/520-2004-verolaki/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nicodemusn.github.io/lexwest/lait/693-1995-vaalilaki/</loc>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/lait/802-1999-hallituslaki/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nicodemusn.github.io/lexwest/uutiset/</loc>
-         <lastmod>2024-01-17</lastmod>
+         <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
